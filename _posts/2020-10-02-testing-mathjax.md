@@ -18,7 +18,7 @@ $$
 
 ## <font color= 977FD7> Niven's Theorem</font>
 
-Niven's theorem states that if \\frac{x}{\pi}\\
+Niven's theorem states that if \\\frac{x}{\pi}\\\
 
 
 
