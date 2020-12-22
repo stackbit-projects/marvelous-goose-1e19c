@@ -18,20 +18,7 @@ $$
 
 ## <font color= 977FD7> Niven's Theorem</font>
 
-Niven's theorem states that if \\\frac{x}{\pi}\\\
-
-
-
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
-
-
+Niven's theorem states that if $$\frac{x}{\pi}$$
 
 and $$sin x$$ are both <font color= E675A7> rational</font>, then the sine takes values 0, ±$\frac{1}{2}$ and ±1.<br/>
  <br/>Particular cases include<br/>
